@@ -6,18 +6,19 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
+1. Team Members: Me (Joe Veverka)
+2. App Name: Binge It, Baby.
 3. App Description (3-5 sentences):
 
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+    Easily track all your favorite shows and movies and discover new - great ones that YOU'll like! 
+    Clean interface, useful and unique features and a joy to use!
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
-    `<Be specific and focus on a real person>`
+    `M/F. Ages 13-35`
     
-5. Github code repository: `<Create a Github Project>`
-6. Github Project/Trello Board: `<Post your link to your Kanban board>`
+5. Github code repository: 
+6. Github Project/Trello Board: https://trello.com/b/htD2270d/binge-it-baby
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
 ## Part 1: Brainstorming
@@ -38,7 +39,9 @@ Add photos, notes, and sketches from your brain storming session.
         4. Take a photo of your organized list and upload it to your proposal (YourName-List.jpg or YourName-List.md)
     3. Prioritize (5 minutes)
         1. What features does your #1 customer need most?
+        The ability to track multiple showtimes. 
         2. Choose 3-5 features that make the core app experience
+        Customizable User page. Discover New/Top rated shows. Set reminders/alerts for upcoming showtimes. Sync to google calander.
         3. Add these features to your `## Top Features` section
     4. Sketch (15 minutes)
         1. Draw a rectangle in the center of a paper
@@ -56,9 +59,9 @@ Add photos, notes, and sketches from your brain storming session.
 
 Add your top 3-5 features (core functionality) from the Prioritize brainstorming step. These should be things that are part of the MVP (not a log in screen). Build for the demo day (i.e.: Apple never shows how to log into the Apple ID on stage).
 
-1. `<Feature 1: What will this help your #1 Customer do?>`
-2. `<Feature 2 (How will this help the customer?>`
-3. `<Feature 3 ...>`
+1. Feature 1 : Allowing customers to save and set alerts for shows they are currently watching
+2. Settings option to sync to your google calander
+3. Rate&Review movies and shows
 
 ## Part 2: Project Plan
 
